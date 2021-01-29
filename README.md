@@ -13,4 +13,8 @@ To start the Project need to install few pre-requisites listed as follows:
 6. And after creating make Account for hosting our website(For e.g-GoDaddy)
 7. Then we'll migrate our website from local to a Server
 
+# Live website
+https://cx1.b3d.myftpupload.com/
+
 # Video Support for Final Submission of Project
+https://youtu.be/U8PpIOJptP4
