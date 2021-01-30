@@ -1,9 +1,15 @@
 # SPS-8109-Corporate-Domain
-Corporate Domain
+Corporate or Business Domain
+
 # Prerequisites
 To start the Project need to install few pre-requisites listed as follows:
 -Xampp Server
 -WordPress 
+-Elementor plugin
+-updraft plugin
+-wpform plugin
+-All-in-one wp migration plugin
+
 # STEP
 1. Download And Install Xampp Server Locally
 2. To work on project we need to download the WordPress and start working in local server
